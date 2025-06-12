@@ -1,17 +1,17 @@
 ## Hi there 👋 I am Hezekiah Jenkins
 
-[![Email](https://img.icons8.com/?size=50&id=12623&format=png&color=D14836)](mailto:selectdimensions@gmail.com)
-[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/selectdimensions/)
-[![Instagram](https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000)](https://instagram.com/yourprofile)
-[![Facebook](https://img.icons8.com/?size=100&id=13912&format=png&color=000000)](https://facebook.com/yourprofile)
-[![X (Twitter)](https://img.icons8.com/?size=100&id=cMRBi0rI3iwb&format=png&color=000000)](https://x.com/yourprofile)
-[![YouTube](https://img.icons8.com/?size=100&id=3lD0uoEr2qZa&format=png&color=000000)](https://youtube.com/@yourprofile)
-[![WhatsApp](https://img.icons8.com/?size=100&id=7OeRNqg6S7Vf&format=png&color=000000)](https://wa.me/yourphonenumber)
-[![Messenger](https://img.icons8.com/?size=100&id=ZdtiMuVlxCyi&format=png&color=000000)](https://m.me/yourprofile)
-[![GitHub](https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000)](https://github.com/yourusername)
-[![GitLab](https://img.icons8.com/?size=100&id=34886&format=png&color=000000)](https://gitlab.com/yourusername)
-[![MasterSergeant_MSG](https://img.icons8.com/?size=100&id=33402&format=png&color=000000)](https://www.dvidshub.net/image/7416622/128th-avation-brigade-awards-ceremony)
-[![pilot license](https://img.icons8.com/?size=100&id=15184&format=png&color=000000)](https://amsrvs.registry.faa.gov/airmeninquiry/Main.aspx)
+[![Email](https://img.icons8.com/?size=50&id=X0mEIh0RyDdL&format=png&color=000000)](mailto:selectdimensions@gmail.com)
+[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/selectdimensions/)
+[![Instagram](https://img.icons8.com/?size=50&id=Xy10Jcu1L2Su&format=png&color=000000)](https://instagram.com/yourprofile)
+[![Facebook](https://img.icons8.com/?size=50&id=13912&format=png&color=000000)](https://facebook.com/yourprofile)
+[![X (Twitter)](https://img.icons8.com/?size=50&id=cMRBi0rI3iwb&format=png&color=000000)](https://x.com/yourprofile)
+[![YouTube](https://img.icons8.com/?size=50&id=3lD0uoEr2qZa&format=png&color=000000)](https://youtube.com/@yourprofile)
+[![WhatsApp](https://img.icons8.com/?size=50&id=7OeRNqg6S7Vf&format=png&color=000000)](https://wa.me/yourphonenumber)
+[![Messenger](https://img.icons8.com/?size=50&id=ZdtiMuVlxCyi&format=png&color=000000)](https://m.me/yourprofile)
+[![GitHub](https://img.icons8.com/?size=50&id=akG4VRhAoSii&format=png&color=000000)](https://github.com/yourusername)
+[![GitLab](https://img.icons8.com/?size=50&id=34886&format=png&color=000000)](https://gitlab.com/yourusername)
+[![MasterSergeant_MSG](https://img.icons8.com/?size=50&id=33402&format=png&color=000000)](https://www.dvidshub.net/image/7416622/128th-avation-brigade-awards-ceremony)
+[![pilot license](https://img.icons8.com/?size=50&id=15184&format=png&color=000000)](https://amsrvs.registry.faa.gov/airmeninquiry/Main.aspx)
 
 ## 🙋‍♂️ About me
 
