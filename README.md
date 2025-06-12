@@ -33,7 +33,7 @@ I'm a **Master Sergeant** in the United States Army, currently serving as an **D
 
 ## 🎖️ Military Achievements
 
-**Current Role:** AIT Instructor & Platoon Sergeant - 15F Aircraft Electrician Course  
+**Current Role:** AI2C Tech - Data Engineer
 **Years of Service:** 16+ years (2008 - Present)  
 **Rank:** Master Sergeant (E-8)
 
