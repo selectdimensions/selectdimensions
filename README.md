@@ -11,7 +11,7 @@
 [![GitHub](https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000)](https://github.com/yourusername)
 [![GitLab](https://img.icons8.com/?size=100&id=34886&format=png&color=000000)](https://gitlab.com/yourusername)
 [![MasterSergeant_MSG](https://img.icons8.com/?size=100&id=33402&format=png&color=000000)](https://www.dvidshub.net/image/7416622/128th-avation-brigade-awards-ceremony)
-[![pilot license](https://img.icons8.com/?size=100&id=WTWBblbBed6w&format=png&color=000000)](https://amsrvs.registry.faa.gov/airmeninquiry/Main.aspx)
+[![pilot license](https://img.icons8.com/?size=100&id=15184&format=png&color=000000)](https://amsrvs.registry.faa.gov/airmeninquiry/Main.aspx)
 
 ## 🙋‍♂️ About me
 
@@ -172,4 +172,4 @@ I'm a **Sergeant First Class** in the United States Army 🇺🇸, currently ser
 ---
 
 **"Dedicated to excellence in military service, aviation, and technology - always ready to serve, lead, and innovate."**
-:us:
+[![us](https://img.icons8.com/?size=100&id=UJSjBk_UUxeL&format=png&color=000000)]
