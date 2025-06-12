@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Hezekiah Jenkins
 
-[![linkedin profile link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![linkedin profile link]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.icons8.com/?size=100&id=13930&format=png&color=000000))](https://www.linkedin.com/in/selectdimensions/)
 [![email contact](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 [![army profile](https://img.shields.io/badge/U.S._Army-5A5A5A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)](#)
 [![pilot license](https://img.shields.io/badge/Private_Pilot-87CEEB?style=for-the-badge&logo=airplane&logoColor=white)](#)
