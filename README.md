@@ -1,17 +1,23 @@
 ## Hi there 👋 I am Hezekiah Jenkins
 
-[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=0077B5)](https://www.linkedin.com/in/selectdimensions/)
 [![Email](https://img.icons8.com/?size=50&id=12623&format=png&color=D14836)](mailto:selectdimensions@gmail.com)
-
-[![email contact](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![army profile](https://img.shields.io/badge/U.S._Army-5A5A5A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)](#)
-[![pilot license](https://img.shields.io/badge/Private_Pilot-87CEEB?style=for-the-badge&logo=airplane&logoColor=white)](#)
+[![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/selectdimensions/)
+[![Instagram](https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000)](https://instagram.com/yourprofile)
+[![Facebook](https://img.icons8.com/?size=100&id=13912&format=png&color=000000)](https://facebook.com/yourprofile)
+[![X (Twitter)](https://img.icons8.com/?size=100&id=cMRBi0rI3iwb&format=png&color=000000)](https://x.com/yourprofile)
+[![YouTube](https://img.icons8.com/?size=100&id=3lD0uoEr2qZa&format=png&color=000000)](https://youtube.com/@yourprofile)
+[![WhatsApp](https://img.icons8.com/?size=100&id=7OeRNqg6S7Vf&format=png&color=000000)](https://wa.me/yourphonenumber)
+[![Messenger](https://img.icons8.com/?size=100&id=ZdtiMuVlxCyi&format=png&color=000000)](https://m.me/yourprofile)
+[![GitHub](https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000)](https://github.com/yourusername)
+[![GitLab](https://img.icons8.com/?size=100&id=34886&format=png&color=000000)](https://gitlab.com/yourusername)
+[![MasterSergeant_MSG](https://img.icons8.com/?size=100&id=33402&format=png&color=000000)](https://www.dvidshub.net/image/7416622/128th-avation-brigade-awards-ceremony)
+[![pilot license](https://img.icons8.com/?size=100&id=WTWBblbBed6w&format=png&color=000000)](https://amsrvs.registry.faa.gov/airmeninquiry/Main.aspx)
 
 ## 🙋‍♂️ About me
 
 ![profile view count](https://komarev.com/ghpvc/?username=hezekiahjenkins)
 
-I'm a **Sergeant First Class** in the United States Army 🇺🇸, currently serving as an **AIT Instructor** and **Platoon Sergeant** with the 1st of the 210th Aviation Regiment at Fort Eustis 🎖️. Born in Fort Worth, Texas, I've dedicated over **15 years** to serving our nation while pursuing my passion for aviation and technology 💻. When I'm not training the next generation of Aircraft Electricians, you can find me working on my pilot certifications ✈️, building technical solutions 🔧, and spending time with my family ❤️.
+I'm a **Sergeant First Class** in the United States Army 🇺🇸, currently serving as an **Data Engineer** at the Army's Artifical Inteligence Intergration Center in Pittsburgh, PA 🎖️. A native of north Texas, I've dedicated over **17 years** to serving our nation while pursuing my passion for aviation and technology 💻. When I'm not training the next generation of Soldiers, you can find me working on my pilot certifications ✈️, building technical solutions 🔧, and spending time with my family ❤️.
 
 ## 🔭 I'm currently working on
 
