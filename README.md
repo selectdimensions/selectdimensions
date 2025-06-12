@@ -171,4 +171,5 @@ I'm a **Sergeant First Class** in the United States Army 🇺🇸, currently ser
 
 ---
 
-**"Dedicated to excellence in military service, aviation, and technology - always ready to serve, lead, and innovate."** 🇺🇸
+**"Dedicated to excellence in military service, aviation, and technology - always ready to serve, lead, and innovate."**
+:us:
