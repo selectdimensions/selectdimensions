@@ -17,7 +17,7 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=hezekiahjenkins)
 
-I'm a **Sergeant First Class** in the United States Army 🇺🇸, currently serving as an **Data Engineer** at the Army's Artifical Inteligence Intergration Center in Pittsburgh, PA 🎖️. A native of north Texas, I've dedicated over **17 years** to serving our nation while pursuing my passion for aviation and technology 💻. When I'm not training the next generation of Soldiers, you can find me working on my pilot certifications ✈️, building technical solutions 🔧, and spending time with my family ❤️.
+I'm a **Master Sergeant** in the United States Army 🇺🇸, currently serving as an **Data Engineer** at the Army's Artifical Inteligence Intergration Center in Pittsburgh, PA 🎖️. A native of Texas, I've dedicated over **17 years** to serving our nation while pursuing my passion for aviation and technology 💻. When I'm not training the next generation of Soldiers, you can find me working on my pilot certifications ✈️, building technical solutions 🔧, and spending time with my family ❤️.
 
 ## 🔭 I'm currently working on
 
