@@ -34,15 +34,17 @@ I'm a **Sergeant First Class** in the United States Army 🇺🇸, currently ser
 ## 🎖️ Military Achievements
 
 **Current Role:** AIT Instructor & Platoon Sergeant - 15F Aircraft Electrician Course  
-**Years of Service:** 15+ years (2008 - Present)  
-**Rank:** Sergeant First Class (E-7)
+**Years of Service:** 16+ years (2008 - Present)  
+**Rank:** Master Sergeant (E-8)
 
 ### 🏆 Key Leadership Positions
 - **Battalion SARC** - Sexual Assault Response Coordinator
+- **Brigade SARC** - Sexual Assault Response Coordinator for 2,000 AIT Trainees, Instructors, and Cadre
 - **Production Control NCOIC** - Managed $929M in aircraft assets
 - **Platoon Sergeant** - Led 29+ Soldiers across multiple deployments
 - **Recruiter** - Top performer, 100% mission success
 - **Brigade NEO Coordinator** - South Korea operations
+- **Brigade Human Resoreces Specialist** - Developed, Built and managed personal management database for over 2,500 Soldier's
 
 ### 🌍 Deployments & Operations
 - **Afghanistan** (2013) - Operation Enduring Freedom XIII
