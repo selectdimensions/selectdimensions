@@ -7,7 +7,8 @@
 [![X (Twitter)](https://img.icons8.com/?size=50&id=cMRBi0rI3iwb&format=png&color=000000)](https://x.com/Hez_Jenkins)
 [![YouTube](https://img.icons8.com/?size=50&id=3lD0uoEr2qZa&format=png&color=000000)](https://www.youtube.com/@selectdimensions)
 [![GitHub](https://img.icons8.com/?size=50&id=akG4VRhAoSii&format=png&color=000000)](https://github.com/selectdimensions/selectdimensions)
-[![GitLab](https://img.icons8.com/?size=50&id=34886&format=png&color=000000)]([https://gitlab.com/yourusername](https://gitlab.com/selectdimensions))
+[![GitLab](https://img.icons8.com/?size=50&id=34886&format=png&color=000000)](https://gitlab.com/selectdimensions)
+[![Trainer](https://img.icons8.com/?size=50&id=EfzeeYAh5sjS&format=png&color=000000)](https://sofrep.com/news/jble-where-aircraft-electricians-are-made/)
 [![MasterSergeant_MSG](https://img.icons8.com/?size=50&id=33402&format=png&color=000000)](https://www.dvidshub.net/image/7416622/128th-avation-brigade-awards-ceremony)
 [![pilot license](https://img.icons8.com/?size=50&id=15184&format=png&color=000000)](https://amsrvs.registry.faa.gov/airmeninquiry/Main.aspx)
 
@@ -38,6 +39,7 @@ I'm a **Master Sergeant** in the United States Army, currently serving as an **D
 ### 🏆 Key Leadership Positions
 - **Battalion SARC** - Sexual Assault Response Coordinator
 - **Brigade SARC** - Sexual Assault Response Coordinator for 2,000 AIT Trainees, Instructors, and Cadre
+- **15F Senior Instructor Writer / Platoon Sergeant** - Senior 15F Instructor for 12+, trained 120+ students
 - **Production Control NCOIC** - Managed $929M in aircraft assets
 - **Platoon Sergeant** - Led 29+ Soldiers across multiple deployments
 - **Recruiter** - Top performer, 100% mission success
@@ -172,3 +174,9 @@ I'm a **Master Sergeant** in the United States Army, currently serving as an **D
 **"Dedicated to excellence in military service, aviation, and technology - always ready to serve, lead, and innovate."**
 
 ![us](https://img.icons8.com/?size=50&id=UJSjBk_UUxeL&format=png&color=000000)
+
+---
+
+<div align="center">
+<sub>Icons provided by <a href="https://icons8.com">Icons8</a></sub>
+</div>
