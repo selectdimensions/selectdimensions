@@ -20,8 +20,8 @@ I'm a **Master Sergeant** in the United States Army, currently serving as an **D
 
 ## 🔭 I'm currently working on
 
-[<img src="assets/army-aviation.png" alt="army aviation training" height="150px">](#)
-[<img style="margin-left: 6.5px" src="assets/flight-training.png" alt="flight training" height="150px">](#)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ArmyAVNBranchPlaque.svg/1024px-ArmyAVNBranchPlaque.svg.png" alt="army aviation training" height="50px">](https://www.army.mil/aviation/)
+[<img style="margin-left: 6.5px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pghflight.com%2Fmedia%2F05741e_508ca4e4295a4327920bb95565017572-mv2_png%2Fv1%2Fcrop%2Fx_1-y_0-w_466-h_193%2Ffill%2Fw_186-h_77-al_c-q_85-usm_0.66_1.00_0.01-enc_auto%2Fpgh%2520flight%2520logo.png&f=1&nofb=1&ipt=4c1bd9c7df2674f376432ee0bdc45fa5761435e23960e21ea46e60a067d21dd2" alt="flight training" height="50px">](https://www.pghflight.com/)
 
 ## 🌱 I'm currently learning
 
@@ -174,6 +174,8 @@ I'm a **Master Sergeant** in the United States Army, currently serving as an **D
 **"Dedicated to excellence in military service, aviation, and technology - always ready to serve, lead, and innovate."**
 
 ![us](https://img.icons8.com/?size=50&id=UJSjBk_UUxeL&format=png&color=000000)
+
+[<img src="https://www.caa.army.mil/img/logos/ArmyStarBlackVert.jpg" style="width: 50px;" alt="Army Logo">](https://www.army.mil/)
 
 ---
 
